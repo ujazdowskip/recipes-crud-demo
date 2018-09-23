@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "food",
+    "uri": "localhost:27017"
+  },
+
+  "app": {
+    "port": 3022,
+    "corsOrigin": "*"
+  }
+}
